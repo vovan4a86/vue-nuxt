@@ -1,6 +1,6 @@
 <template>
-  <div class="main-content">
-    <div class="container">
+  <div class="main-content ">
+    <div class="container p-3 border border-solid rounded-2xl">
       <h2 class="title is-2">About this website.</h2>
       <p>Curabitur accumsan turpis pharetra <strong>augue tincidunt</strong> blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.</p>
       <br>

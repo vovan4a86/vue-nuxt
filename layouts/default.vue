@@ -5,7 +5,7 @@
       <div class="container">
         <div class="navbar-start">
           <nuxt-link to="/" class="navbar-item">
-            Vue-Nuxt Site
+            Awesome JS SSR Blog!
           </nuxt-link>
           <nuxt-link active-class="is-active" to="/" class="navbar-item is-tab" exact>Home</nuxt-link>
           <nuxt-link active-class="is-active" to="/about" class="navbar-item is-tab" exact>About</nuxt-link>
@@ -14,7 +14,6 @@
       </div>
     </nav>
     <!-- /navigation -->
-
     <!-- displays the page component -->
     <nuxt/>
   </div>
