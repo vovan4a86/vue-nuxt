@@ -17,13 +17,9 @@
 
 <script>
 export default {
-  name: "About",
+  name: "about",
   head: {
-    title: 'About'
+    title: 'about'
   }
 }
 </script>
-
-<style scoped>
-
-</style>

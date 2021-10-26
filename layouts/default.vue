@@ -9,6 +9,7 @@
           </nuxt-link>
           <nuxt-link active-class="is-active" to="/" class="navbar-item is-tab" exact>Home</nuxt-link>
           <nuxt-link active-class="is-active" to="/about" class="navbar-item is-tab" exact>About</nuxt-link>
+          <nuxt-link active-class="is-active" to="/features" class="navbar-item is-tab" exact>Features</nuxt-link>
         </div>
       </div>
     </nav>
@@ -21,7 +22,7 @@
 
 <script>
 export default {
-  name: "DefaultPage"
+  name: "default"
 }
 </script>
 
